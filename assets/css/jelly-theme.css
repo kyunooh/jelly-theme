@@ -1,0 +1,29 @@
+/* SCSS Variables */
+/*--------------
+  Font
+  -------------- */
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Spoqa Han Sans", "Source Sans Pro", Apple SD Gothic Neo, Nanum Barun Gothic, Nanum Gothic, Verdana, Arial, Dotum, sans-serif;
+  font-size: 14px;
+  line-height: 1.5; }
+
+html,
+body {
+  margin: 0;
+  padding: 0; }
+
+/* ------------
+    Header
+--------------*/
+.header {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: rgba(255, 255, 255, 0.75);
+  background-color: #24292e; }
+
+/*# sourceMappingURL=jelly-theme.css.map */

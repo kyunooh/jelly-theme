@@ -21,11 +21,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jellyms.kr" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kyunooh
 
+# Sass
+sass:
+  sass_dir: _sass
+  style: :compressed
+
 # Build settings
 markdown: kramdown
 theme: jelly-theme
 gems:
   - jekyll-feed
+
+
 
 
 # Exclude from processing.
