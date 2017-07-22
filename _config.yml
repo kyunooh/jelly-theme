@@ -31,7 +31,7 @@ markdown: kramdown
 theme: jelly-theme
 gems:
   - jekyll-feed
-
+  - jekyll-timeago
 
 
 
